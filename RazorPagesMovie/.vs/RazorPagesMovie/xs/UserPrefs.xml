@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{103620AB-B412-4129-8541-9BD0B434AFCB}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Pages/Movies/Index.cshtml">
+    <Files>
+      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="10" Column="2" />
+      <File FileName="RazorPagesMovie/Data/RazorPagesMovieContext.cs" Line="13" Column="6" />
+      <File FileName="RazorPagesMovie/appsettings.json" Line="12" Column="2" />
+      <File FileName="RazorPagesMovie/Program.cs" Line="11" Column="27" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml" Line="37" Column="18" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml.cs" Line="20" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True">
+                  <Node name="Index.cshtml" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
